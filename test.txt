@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 testing234
+=======
+>>>>>>> 64a4716... configlict1
 testig1
 testing branch
 demo test
